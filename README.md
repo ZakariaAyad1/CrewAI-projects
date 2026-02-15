@@ -428,7 +428,7 @@ Then:
 ---
 
 # 🎯 Summary
-
+.
 This code:
 
 * Defines two agents (debater + judge)
